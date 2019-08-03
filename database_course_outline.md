@@ -8,7 +8,7 @@
 * Lesson 1.3: Logical Data Model
   * Learning Objective: Learner will be able to define attributes of entities and their relationships based on both raw data and business use case.
 * Lesson 1.4: Physical Data Model
-  * Learning Objective: Learner will be able to implement a database based on the logical data model.
+  * Learning Objective: Learner will be able to implement a database based on the logical data model with consideration of table naming convention, partition, and index.
 
 ## Chapter 2: Data Types
 * Lesson 2.1: Introduction to SQL Data Types
