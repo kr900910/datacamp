@@ -1,6 +1,6 @@
-Creating SQL Server Databases
+# Creating SQL Server Databases
 
-**Chapter 1: Data Model**
+## Chapter 1: Data Model
 * Lesson 1.1: Introduction to Data Model
   * Learning Objective: Learner will be able to understand the importance of data model.
 * Lesson 1.2: Conceptual Data Model
@@ -10,7 +10,7 @@ Creating SQL Server Databases
 * Lesson 1.4: Physical Data Model
   * Learning Objective: Learner will be able to implement a database based on the logical data model.
 
-**Chapter 2: Data Types**
+## Chapter 2: Data Types
 * Lesson 2.1: Introduction to SQL Data Types
   * Learning Objective: Learner will be able to identify different data types that can be used in SQL database.
 * Lesson 2.2: Numeric Data Types
@@ -20,7 +20,7 @@ Creating SQL Server Databases
 * Lesson 2.4: Other Data Types
   * Learning Objective: Learner will be able to select the right data type beyond numeric and character to use for a given field and its use case.
 
-**Chapter 3: Data Normalization**
+## Chapter 3: Data Normalization
 * Lesson 3.1: Introduction to Data Normalization
   * Learning Objective: Learner will be able to understand the importance of data normalization.
 * Lesson 3.2: First Normal Form (1NF)
@@ -30,7 +30,7 @@ Creating SQL Server Databases
 * Lesson 3.4: Third Normal Form (3NF)
   * Learning Objective: Learner will be able to implement a SQL database in third normal form.
 
-**Chapter 4: Advanced Database Design Concepts**
+## Chapter 4: Advanced Database Design Concepts
 * Lesson 4.1: Data De-normalization
   * Learning Objective: Learner will be able to evaluate when to de-normalize data.
 * Lesson 4.2: Data Retention
