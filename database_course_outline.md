@@ -14,11 +14,11 @@
 * Lesson 2.1: Introduction to SQL Data Types
   * Learning Objective: Learner will be able to identify different data types that can be used in SQL database.
 * Lesson 2.2: Numeric Data Types
-  * Learning Objective: Learner will be able to select the right numeric data type to use for a given field and its use case (i.e. INT, TINYINT, BIGINT, DOUBLE, DECIMAL).
+  * Learning Objective: Learner will be able to select the right numeric data type to use for a given field and its use case.
 * Lesson 2.3: Character Data Types
-  * Learning Objective: Learner will be able to select the right character data type to use for a given field and its use case (i.e. CHAR, VARCHAR).
-* Lesson 2.4: Date/Time Data Types
-  * Learning Objective: Learner will be able to select the right date/time data type to use for a given field and its use case (i.e. DATE, DATETIME, TIMESTAMP).
+  * Learning Objective: Learner will be able to select the right character data type to use for a given field and its use case.
+* Lesson 2.4: Other Data Types
+  * Learning Objective: Learner will be able to select the right data type beyond numeric/character to use for a given field and its use case.
 
 ## Chapter 3: Data Normalization
 * Lesson 3.1: Introduction to Data Normalization
