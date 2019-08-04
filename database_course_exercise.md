@@ -15,7 +15,7 @@ appropriate data types when creating those tables.
 CREATE TABLE users (
  user_id bigint,
  user_name varchar(255),
- user_age tinyint,
+ user_age int,
  user_country varchar(2)
 );
 
@@ -27,11 +27,11 @@ CREATE TABLE country_mappings (
 CREATE TABLE artists (
  artist_id bigint,
  artist_name varchar(255),
- artist_added_date datetime
-)
+ artist_added_date date
+);
 
 CREATE TABLE user_page_pairs (
  user_id bigint,
  artist_id bigint
-)
+);
 ```
