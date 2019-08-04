@@ -4,13 +4,33 @@ Imagine you're working as a data scientist for an app where fans can subscribe t
 create a simple SQL database that is in third normal form by creating relevant tables. Make sure you use the most
 appropriate data types when creating those tables.
 
-![Image of Yaktocat](database_exercise_example.jpg)
+![database_course_exercise_example](database_course_exercise_example.jpg)
 
 # Instructions
 
 
 # Code
+```sql
 CREATE TABLE users (
- user_id text,
- user_name text
+ user_id bigint,
+ user_name varchar(255),
+ user_age tinyint,
+ user_country varchar(2)
 );
+
+CREATE TABLE country_mappings (
+  country varchar(2),
+  region varchar(255)
+);
+
+CREATE TABLE artists (
+ artist_id bigint,
+ artist_name varchar(255),
+ artist_added_date datetime
+)
+
+CREATE TABLE user_page_pairs (
+ user_id bigint,
+ artist_id bigint
+)
+```
