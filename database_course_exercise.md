@@ -8,7 +8,7 @@ appropriate data types when creating the tables.
 
 # Instructions
 1. You need to create 4 different tables with total 11 columns to be in third normal form.
-2. You need to use 5 different data types. For example, varchar(255) will be considered different from varchar(2).
+2. You need to use 5 different data types. For example, varchar(255) will be considered as different data type from varchar(2).
 
 # Code
 ```sql
