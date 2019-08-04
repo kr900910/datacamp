@@ -13,25 +13,18 @@ appropriate data types when creating those tables.
 # Code
 ```sql
 CREATE TABLE users (
- user_id bigint,
- user_name varchar(255),
- user_age int,
- user_country varchar(2)
+ user_id bigint, user_name varchar(255), user_age int, user_country varchar(2)
 );
 
 CREATE TABLE country_mappings (
-  country varchar(2),
-  region varchar(255)
+ country varchar(2), region varchar(255)
 );
 
 CREATE TABLE artists (
- artist_id bigint,
- artist_name varchar(255),
- artist_added_date date
+ artist_id bigint, artist_name varchar(255), artist_added_date date
 );
 
 CREATE TABLE user_page_pairs (
- user_id bigint,
- artist_id bigint
+ user_id bigint, artist_id bigint
 );
 ```
