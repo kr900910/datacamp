@@ -2,7 +2,7 @@
 
 Imagine you're working as a data scientist for an app where fans can subscribe to their favorite artists. Given the app has the below raw data,
 create a simple SQL database that is in third normal form by creating relevant tables. Make sure you use the most
-appropriate data types when creating those tables.
+appropriate data types when creating the tables.
 
 ![database_course_exercise_example](database_course_exercise_example.jpg)
 
