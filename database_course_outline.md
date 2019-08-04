@@ -12,7 +12,7 @@
 
 ## Chapter 2: Data Types
 * Lesson 2.1: Introduction to SQL Data Types
-  * Learning Objective: Learner will be able to identify different data types that can be used in SQL database.
+  * Learning Objective: Learner will be able to understand different data types that can be used in SQL database.
 * Lesson 2.2: Numeric Data Types
   * Learning Objective: Learner will be able to select the right numeric data type to use for a given field and its use case.
 * Lesson 2.3: Character Data Types
