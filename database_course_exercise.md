@@ -7,7 +7,8 @@ appropriate data types when creating those tables.
 ![database_course_exercise_example](database_course_exercise_example.jpg)
 
 # Instructions
-
+1. You need to create 4 different tables to be in third normal form.
+2. You need to use 5 different data types. For example, varchar(255) will be considered different data type from varchar(2).
 
 # Code
 ```sql
