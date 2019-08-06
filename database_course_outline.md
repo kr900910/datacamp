@@ -2,7 +2,7 @@
 
 ## Chapter 1: Database Implementation
 * Lesson 1.1: Introduction to SQL Database
-  * Learning Objective: Learner will be able to understand different components of SQL database and important concepts when designing a database.
+  * Learning Objective: Learner will be able to understand different components of SQL database and important concepts to be aware of when designing a database.
 * Lesson 1.2: Table Creation
   * Learning Objective: Learner will be able to create a SQL table using CREATE TABLE syntax.
 * Lesson 1.3: Table Modification and Deletion
