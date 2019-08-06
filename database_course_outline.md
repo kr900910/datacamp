@@ -28,7 +28,7 @@
 * Lesson 3.4: Third Normal Form (3NF)
   * Learning Objective: Learner will be able to implement a SQL database in third normal form.
 
-## Chapter 4: Advanced Database Design Concepts
+## Chapter 4: Advanced Database Design
 * Lesson 4.1: Data De-normalization
   * Learning Objective: Learner will be able to evaluate when to de-normalize data.
 * Lesson 4.2: SQL Constraints
