@@ -1,12 +1,12 @@
 # Creating SQL Server Databases
 
 ## Chapter 1: Database Implementation
-* Lesson 1.1: Table Creation
+* Lesson 1.1: Introduction to SQL Database
+  * Learning Objective: Learner will be able to understand different components of SQL database and important concepts when designing a database.
+* Lesson 1.2: Table Creation
   * Learning Objective: Learner will be able to create a SQL table using CREATE TABLE syntax.
-* Lesson 1.2: Table Modification and Deletion
+* Lesson 1.3: Table Modification and Deletion
   * Learning Objective: Learner will be able to modify and delete a SQL table using ALTER TABLE, TRUNCATE TABLE, and DROP TABLE syntaxes.
-* Lesson 1.3: Data Ingestion
-  * Learning Objective: Learner will be able to ingest data into empty table using INSERT INTO syntax.
 
 ## Chapter 2: Data Types
 * Lesson 2.1: Introduction to SQL Data Types
